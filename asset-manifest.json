@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gridle/static/css/main.bf6a4078.css",
+    "main.js": "/gridle/static/js/main.303e262f.js",
+    "index.html": "/gridle/index.html",
+    "main.bf6a4078.css.map": "/gridle/static/css/main.bf6a4078.css.map",
+    "main.303e262f.js.map": "/gridle/static/js/main.303e262f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6a4078.css",
+    "static/js/main.303e262f.js"
+  ]
+}
