@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/gridle/static/css/main.2cc192b1.css",
-    "main.js": "/gridle/static/js/main.1f127bdd.js",
+    "main.js": "/gridle/static/js/main.81641421.js",
     "index.html": "/gridle/index.html",
     "main.2cc192b1.css.map": "/gridle/static/css/main.2cc192b1.css.map",
-    "main.1f127bdd.js.map": "/gridle/static/js/main.1f127bdd.js.map"
+    "main.81641421.js.map": "/gridle/static/js/main.81641421.js.map"
   },
   "entrypoints": [
     "static/css/main.2cc192b1.css",
-    "static/js/main.1f127bdd.js"
+    "static/js/main.81641421.js"
   ]
 }
